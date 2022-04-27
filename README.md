@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Python" src ="https://img.shields.io/badge/logo-test-blue?logo=facebook"/>
+<img alt="Python" src ="https://img.shields.io/badge/github-GIVEME--STAR-red"/>
 
   
 <!--
