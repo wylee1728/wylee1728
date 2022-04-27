@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/logo-test-blue?logo=facebook
-https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
-https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white&logoWidth=40
-  
+<img alt="Python" src ="https://img.shields.io/badge/logo-test-blue?logo=facebook"/>
+
   
 <!--
 **wylee1728/wylee1728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
