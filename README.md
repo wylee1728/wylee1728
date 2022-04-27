@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/willy-dd-green
+https://img.shields.io/badge/logo-test-blue?logo=facebook
+https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
+https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white&logoWidth=40
   
   
 <!--
